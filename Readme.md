@@ -8,5 +8,6 @@ Create a .env file and  create these three strings
 MONGO_URI = ....
 VITE NODE_ENV=DEVELOPMENT || 
 JWT_SECRET = "THIS IS A... " 
+Then , from the root folder , run the command npm run dev ( this wiil start both tht front end and backend as i have installed concurrently and combined both operations )
+after that you are good to go . 
 
-after that you are good to go .
